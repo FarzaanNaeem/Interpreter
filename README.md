@@ -1,5 +1,5 @@
 # Interpreter
-This is an interpeter that evaluataes a stack based language. It takes a string as an input for all of the list of commands as well as an output file where the output will go to. Each command will be separated by a new line. This was all written in the language OCaml. The language has the following grammar:  
+This is an interpeter that evaluataes a stack based language. It takes a string as an input for all of the list of commands as well as a text file where the output will go to. Each command will be separated by a new line. This was all written in the language OCaml. The language has the following grammar:  
 [digit]::= 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  
 [int]::= {-}[digit]{[digit]}  
 [char]::= [uchar] | [lchar]  
