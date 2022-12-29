@@ -11,8 +11,8 @@ This is an interpeter that evaluataes a stack based language. It takes a string 
 [com]::= Quit  
 | Push [const]  
 | Pop    
-|Add  
-|Sub (subtraction)  
+| Add  
+| Sub (subtraction)  
 | Mul (multiplcation)  
 | Div (division)  
 | Swap (swap the top 2 values off the stack)  
