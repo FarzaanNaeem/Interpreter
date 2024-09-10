@@ -16,7 +16,7 @@ This is an interpeter that evaluataes a stack based language. It takes a string 
 | Mul (multiplcation)  
 | Div (division)  
 | Swap (swap the top 2 values off the stack)  
-| Neg (multiply an in by -1)  
+| Neg (multiply an int by -1)  
 | Concat (concat two strings)  
 | And  
 | Or  
